@@ -1,0 +1,3041 @@
+canonical_identifier: bkk:krp/KR6r0167/v1
+canonical_location: https://kanripo.org/bkk/KR6r0167/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 六道集
+  identifiers:
+    alt_id:
+    - X88n1645
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X88/X88n1645.xml
+    old_id: X88n1645
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0167_000.yaml, hash: 'sha256:c1ec8bfc48a9f8ab60b8ec0fa94378d7075bbb41b0e45e0df34c24e734ad839e'}
+  - {seq: 1, filename: KR6r0167_001.yaml, hash: 'sha256:715f1ed83b8b25bab42f6f1cf6bd2552d4115fb82dc7f8f4d7d49db39654deb7'}
+  - {seq: 2, filename: KR6r0167_002.yaml, hash: 'sha256:8ebdf377b96dde6ca4d09bdb03428720c0eef0238f5671ed3612a3e26abe421f'}
+  - {seq: 3, filename: KR6r0167_003.yaml, hash: 'sha256:ab8e1e7c7fb5969f9e212feb87cde0a4464adc7ee0d8f13a0434afd407288547'}
+  - {seq: 4, filename: KR6r0167_004.yaml, hash: 'sha256:76cacc2b424bdd35b2ad6ec637f25a4cd74c1ee43b2729c276aa251aacbe6746'}
+  - {seq: 5, filename: KR6r0167_005.yaml, hash: 'sha256:cf60e377b6cdb19f93e8b7c630f454afd7877822cdd8a76e44836c866245539a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0167_000.markers.yaml, hash: 'sha256:119cc125b2b97196db867903599d1dd5319c0a725fd453ef9ae926eb53d2594e'}
+  - {seq: 1, role: markers, filename: assets/KR6r0167_001.markers.yaml, hash: 'sha256:0c8daa1caf4243c66fa7f155623ad6e1327eb47aac3650a31bfa9676fe3f74e8'}
+  - {seq: 2, role: markers, filename: assets/KR6r0167_002.markers.yaml, hash: 'sha256:2adc92ab1af741f419d6e8425a2875124f4e416609cd3e28e5547abae822cb65'}
+  - {seq: 3, role: markers, filename: assets/KR6r0167_003.markers.yaml, hash: 'sha256:9201ce1d11e28147cf2484f6cee0bf066e28e475be0d1f5406ceab0d12f1cdcd'}
+  - {seq: 4, role: markers, filename: assets/KR6r0167_004.markers.yaml, hash: 'sha256:87eb531feb89e3f8c85bb89a0b7f27d1dd536257c86fa5a3c41edcf8ca072c63'}
+  - {seq: 5, role: markers, filename: assets/KR6r0167_005.markers.yaml, hash: 'sha256:be9c4e6c30c96bf1860ca5284363359d1bbd64d3ddd7baefd2244de9edd79ba1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0167_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1645-A 六道集敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0167_X_000-mulu-2
+    span:
+    - front
+    - 293
+    - 293
+  label: No. 1645-B 六道集序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0167_X_000-mulu-3
+    span:
+    - front
+    - 639
+    - 639
+  label: 六道集總目
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0167_X_000-mulu-4
+    span:
+    - front
+    - 676
+    - 676
+  label: 六道集目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6r0167_X_000-mulu-5
+    span:
+    - front
+    - 1754
+    - 1754
+  label: No. 1645-C 六道集述言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 12044
+  label: 六道集卷一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 天道
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-2
+    span:
+    - body
+    - 16
+    - 16
+  label: 述言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-3
+    span:
+    - body
+    - 1205
+    - 1205
+  label: 述諸經文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-4
+    span:
+    - body
+    - 1753
+    - 1753
+  label: 法句喻經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-5
+    span:
+    - body
+    - 2051
+    - 2051
+  label: 天竺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-6
+    span:
+    - body
+    - 2053
+    - 2053
+  label: 無著菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-7
+    span:
+    - body
+    - 2459
+    - 2459
+  label: 晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-8
+    span:
+    - body
+    - 2460
+    - 2460
+  label: 孫稚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-9
+    span:
+    - body
+    - 2892
+    - 2892
+  label: 董青建
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-10
+    span:
+    - body
+    - 3535
+    - 3535
+  label: 歷陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-11
+    span:
+    - body
+    - 4005
+    - 4005
+  label: 襄陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-12
+    span:
+    - body
+    - 4456
+    - 4456
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-13
+    span:
+    - body
+    - 4457
+    - 4457
+  label: 江陵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-14
+    span:
+    - body
+    - 4739
+    - 4739
+  label: 酒泉郡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-15
+    span:
+    - body
+    - 5189
+    - 5189
+  label: 梁
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-16
+    span:
+    - body
+    - 5190
+    - 5190
+  label: 武帝妃
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-17
+    span:
+    - body
+    - 5514
+    - 5514
+  label: 蜀郡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-18
+    span:
+    - body
+    - 5746
+    - 5746
+  label: 元魏
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-19
+    span:
+    - body
+    - 5748
+    - 5748
+  label: 中天竺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-20
+    span:
+    - body
+    - 5903
+    - 5903
+  label: 隋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-21
+    span:
+    - body
+    - 5904
+    - 5904
+  label: 相州
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-22
+    span:
+    - body
+    - 6077
+    - 6077
+  label: 潞州
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-23
+    span:
+    - body
+    - 6125
+    - 6125
+  label: 海東
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-24
+    span:
+    - body
+    - 6296
+    - 6296
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-25
+    span:
+    - body
+    - 6297
+    - 6297
+  label: 京師
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-26
+    span:
+    - body
+    - 6619
+    - 6619
+  label: 壽州
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-27
+    span:
+    - body
+    - 6755
+    - 6755
+  label: 長安
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-28
+    span:
+    - body
+    - 9594
+    - 9594
+  label: 嵩山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-29
+    span:
+    - body
+    - 9814
+    - 9814
+  label: 循州
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-30
+    span:
+    - body
+    - 10099
+    - 10099
+  label: 于闐國
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-31
+    span:
+    - body
+    - 10206
+    - 10206
+  label: 清
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0167_X_001-mulu-32
+    span:
+    - body
+    - 10207
+    - 10207
+  label: 廣州
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 21708
+  label: 六道集卷二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 人道
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-2
+    span:
+    - body
+    - 16
+    - 16
+  label: 述諸經文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-3
+    span:
+    - body
+    - 1653
+    - 1653
+  label: 三教平心論
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-4
+    span:
+    - body
+    - 3181
+    - 3181
+  label: 正見經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-5
+    span:
+    - body
+    - 3619
+    - 3619
+  label: 轉輪五道經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-6
+    span:
+    - body
+    - 4530
+    - 4530
+  label: 優婆塞戒經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-7
+    span:
+    - body
+    - 4923
+    - 4923
+  label: 二教論
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-8
+    span:
+    - body
+    - 5662
+    - 5662
+  label: 五王經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-9
+    span:
+    - body
+    - 6375
+    - 6375
+  label: 善見律
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-10
+    span:
+    - body
+    - 6457
+    - 6457
+  label: 雜事律
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-11
+    span:
+    - body
+    - 8610
+    - 8610
+  label: 舊雜譬喻經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-12
+    span:
+    - body
+    - 9152
+    - 9152
+  label: 法句喻經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-13
+    span:
+    - body
+    - 9588
+    - 9588
+  label: 經律云
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-14
+    span:
+    - body
+    - 9694
+    - 9694
+  label: 賢愚經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-15
+    span:
+    - body
+    - 9979
+    - 9979
+  label: 度狗經
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-16
+    span:
+    - body
+    - 10184
+    - 10184
+  label: 天竺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-17
+    span:
+    - body
+    - 10499
+    - 10499
+  label: 晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-18
+    span:
+    - body
+    - 10500
+    - 10500
+  label: 泰山
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-19
+    span:
+    - body
+    - 10834
+    - 10834
+  label: 瑯琊
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-20
+    span:
+    - body
+    - 10985
+    - 10985
+  label: 吳興
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-21
+    span:
+    - body
+    - 11129
+    - 11129
+  label: 餘杭
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-22
+    span:
+    - body
+    - 11258
+    - 11258
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-23
+    span:
+    - body
+    - 11259
+    - 11259
+  label: 武帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-24
+    span:
+    - body
+    - 11322
+    - 11322
+  label: 崑崙山
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-25
+    span:
+    - body
+    - 11678
+    - 11678
+  label: 元魏
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-26
+    span:
+    - body
+    - 11680
+    - 11680
+  label: 北代
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-27
+    span:
+    - body
+    - 11828
+    - 11828
+  label: 北齊
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-28
+    span:
+    - body
+    - 11830
+    - 11830
+  label: 趙州
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-29
+    span:
+    - body
+    - 12050
+    - 12050
+  label: 宣帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-30
+    span:
+    - body
+    - 12270
+    - 12270
+  label: 梁
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-31
+    span:
+    - body
+    - 12271
+    - 12271
+  label: 元帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-32
+    span:
+    - body
+    - 12359
+    - 12359
+  label: 隋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-33
+    span:
+    - body
+    - 12360
+    - 12360
+  label: 博陵
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-34
+    span:
+    - body
+    - 12586
+    - 12586
+  label: 太山
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-35
+    span:
+    - body
+    - 13044
+    - 13044
+  label: 徐陵
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-36
+    span:
+    - body
+    - 13155
+    - 13155
+  label: 天台
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-37
+    span:
+    - body
+    - 13227
+    - 13227
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-38
+    span:
+    - body
+    - 13228
+    - 13228
+  label: 汾州
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-39
+    span:
+    - body
+    - 13385
+    - 13385
+  label: 相州
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-40
+    span:
+    - body
+    - 13575
+    - 13575
+  label: 蘄州
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-41
+    span:
+    - body
+    - 13871
+    - 13871
+  label: 并州
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-42
+    span:
+    - body
+    - 14120
+    - 14120
+  label: 莊惠
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-43
+    span:
+    - body
+    - 14181
+    - 14181
+  label: 登州
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-44
+    span:
+    - body
+    - 14218
+    - 14218
+  label: 沙門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-45
+    span:
+    - body
+    - 14380
+    - 14380
+  label: 回向寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-46
+    span:
+    - body
+    - 14552
+    - 14552
+  label: 壽州
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-47
+    span:
+    - body
+    - 14664
+    - 14664
+  label: 興元間
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-48
+    span:
+    - body
+    - 14782
+    - 14782
+  label: 龍懷寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-49
+    span:
+    - body
+    - 14994
+    - 14994
+  label: 衡嶽寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-50
+    span:
+    - body
+    - 15130
+    - 15130
+  label: 東都
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-51
+    span:
+    - body
+    - 15587
+    - 15587
+  label: 吳郡
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-52
+    span:
+    - body
+    - 15631
+    - 15631
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-53
+    span:
+    - body
+    - 15632
+    - 15632
+  label: 仁宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-54
+    span:
+    - body
+    - 15713
+    - 15713
+  label: 滁州
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-55
+    span:
+    - body
+    - 15766
+    - 15766
+  label: 公亮
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-56
+    span:
+    - body
+    - 15781
+    - 15781
+  label: 東坡
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-57
+    span:
+    - body
+    - 15901
+    - 15901
+  label: 山谷
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-58
+    span:
+    - body
+    - 15951
+    - 15951
+  label: 燕都
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-59
+    span:
+    - body
+    - 16188
+    - 16188
+  label: 明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-60
+    span:
+    - body
+    - 16189
+    - 16189
+  label: 紹興
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-61
+    span:
+    - body
+    - 16455
+    - 16455
+  label: 浙江
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-62
+    span:
+    - body
+    - 16755
+    - 16755
+  label: 清
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-63
+    span:
+    - body
+    - 16756
+    - 16756
+  label: 羅定州
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-64
+    span:
+    - body
+    - 16820
+    - 16820
+  label: 惠州
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-65
+    span:
+    - body
+    - 17129
+    - 17129
+  label: 湖廣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-66
+    span:
+    - body
+    - 17270
+    - 17270
+  label: 潮州
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-67
+    span:
+    - body
+    - 17511
+    - 17511
+  label: 附遺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-68
+    span:
+    - body
+    - 17513
+    - 17513
+  label: 譚景升
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-69
+    span:
+    - body
+    - 17871
+    - 17871
+  label: 南唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-70
+    span:
+    - body
+    - 17955
+    - 17955
+  label: 南宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-71
+    span:
+    - body
+    - 18648
+    - 18648
+  label: 阿修羅道
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-72
+    span:
+    - body
+    - 18652
+    - 18652
+  label: 集諸經文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-73
+    span:
+    - body
+    - 20513
+    - 20513
+  label: 西域
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-74
+    span:
+    - body
+    - 20515
+    - 20515
+  label: 天竺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-75
+    span:
+    - body
+    - 20939
+    - 20939
+  label: 中印度
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0167_X_002-mulu-76
+    span:
+    - body
+    - 21200
+    - 21200
+  label: 中天竺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 21364
+  label: 六道集卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 鬼神道
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-3
+    span:
+    - body
+    - 344
+    - 344
+  label: 牟子
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-4
+    span:
+    - body
+    - 567
+    - 567
+  label: 天地本起經
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-5
+    span:
+    - body
+    - 948
+    - 948
+  label: 順正理論
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-6
+    span:
+    - body
+    - 2405
+    - 2405
+  label: 正法念經
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-7
+    span:
+    - body
+    - 4311
+    - 4311
+  label: 漢
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-8
+    span:
+    - body
+    - 4312
+    - 4312
+  label: 雒陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-9
+    span:
+    - body
+    - 5114
+    - 5114
+  label: 交趾
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-10
+    span:
+    - body
+    - 5529
+    - 5529
+  label: 阿登
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-11
+    span:
+    - body
+    - 5650
+    - 5650
+  label: 晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-12
+    span:
+    - body
+    - 5651
+    - 5651
+  label: 河陰
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-13
+    span:
+    - body
+    - 5781
+    - 5781
+  label: 太山
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-14
+    span:
+    - body
+    - 5870
+    - 5870
+  label: 陳國
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-15
+    span:
+    - body
+    - 6063
+    - 6063
+  label: 長安
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-16
+    span:
+    - body
+    - 6273
+    - 6273
+  label: 廬山
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-17
+    span:
+    - body
+    - 6415
+    - 6415
+  label: 竺曇遂
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-18
+    span:
+    - body
+    - 6603
+    - 6603
+  label: 始豐
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-19
+    span:
+    - body
+    - 6971
+    - 6971
+  label: 瑯琊
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-20
+    span:
+    - body
+    - 7051
+    - 7051
+  label: 淮南
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-21
+    span:
+    - body
+    - 7167
+    - 7167
+  label: 秦
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-22
+    span:
+    - body
+    - 7168
+    - 7168
+  label: 秦主
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-23
+    span:
+    - body
+    - 7242
+    - 7242
+  label: 高平
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-24
+    span:
+    - body
+    - 7337
+    - 7337
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-25
+    span:
+    - body
+    - 7338
+    - 7338
+  label: 河內
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-26
+    span:
+    - body
+    - 8198
+    - 8198
+  label: 長安
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-27
+    span:
+    - body
+    - 8672
+    - 8672
+  label: 滎陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-28
+    span:
+    - body
+    - 8765
+    - 8765
+  label: 京師
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-29
+    span:
+    - body
+    - 8893
+    - 8893
+  label: 王文明
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-30
+    span:
+    - body
+    - 9040
+    - 9040
+  label: 東海
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-31
+    span:
+    - body
+    - 9161
+    - 9161
+  label: 張乙
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-32
+    span:
+    - body
+    - 9335
+    - 9335
+  label: 襄城
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-33
+    span:
+    - body
+    - 9551
+    - 9551
+  label: 齊
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-34
+    span:
+    - body
+    - 9552
+    - 9552
+  label: 會稽
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-35
+    span:
+    - body
+    - 9677
+    - 9677
+  label: 靈苑
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-36
+    span:
+    - body
+    - 9904
+    - 9904
+  label: 楊州
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-37
+    span:
+    - body
+    - 10008
+    - 10008
+  label: 瑯琊
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-38
+    span:
+    - body
+    - 10369
+    - 10369
+  label: 南陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-39
+    span:
+    - body
+    - 10631
+    - 10631
+  label: 魏
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-40
+    span:
+    - body
+    - 10632
+    - 10632
+  label: 汾州
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-41
+    span:
+    - body
+    - 10926
+    - 10926
+  label: 周
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-42
+    span:
+    - body
+    - 10927
+    - 10927
+  label: 河南
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-43
+    span:
+    - body
+    - 11134
+    - 11134
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-44
+    span:
+    - body
+    - 11135
+    - 11135
+  label: 趙郡
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-45
+    span:
+    - body
+    - 12708
+    - 12708
+  label: 濩澤縣
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-46
+    span:
+    - body
+    - 12958
+    - 12958
+  label: 武帝
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-47
+    span:
+    - body
+    - 13154
+    - 13154
+  label: 洛州
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-48
+    span:
+    - body
+    - 13924
+    - 13924
+  label: 姚明解
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-49
+    span:
+    - body
+    - 14059
+    - 14059
+  label: 博陵
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-50
+    span:
+    - body
+    - 14320
+    - 14320
+  label: 京兆
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-51
+    span:
+    - body
+    - 14607
+    - 14607
+  label: 嵩嶽
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-52
+    span:
+    - body
+    - 15779
+    - 15779
+  label: 明
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-53
+    span:
+    - body
+    - 15780
+    - 15780
+  label: 高祖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-54
+    span:
+    - body
+    - 16122
+    - 16122
+  label: 徽州
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-55
+    span:
+    - body
+    - 16455
+    - 16455
+  label: 廣州
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-56
+    span:
+    - body
+    - 16529
+    - 16529
+  label: 廣信
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-57
+    span:
+    - body
+    - 16849
+    - 16849
+  label: 廣州
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-58
+    span:
+    - body
+    - 17053
+    - 17053
+  label: 清
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-59
+    span:
+    - body
+    - 17054
+    - 17054
+  label: 東莞
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-60
+    span:
+    - body
+    - 17556
+    - 17556
+  label: 廣州
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-61
+    span:
+    - body
+    - 17969
+    - 17969
+  label: 順德
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-62
+    span:
+    - body
+    - 20315
+    - 20315
+  label: 附
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-63
+    span:
+    - body
+    - 20316
+    - 20316
+  label: 西湖
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-64
+    span:
+    - body
+    - 20426
+    - 20426
+  label: 姑蘇
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-65
+    span:
+    - body
+    - 20625
+    - 20625
+  label: 釋法聰
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-66
+    span:
+    - body
+    - 20788
+    - 20788
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-67
+    span:
+    - body
+    - 21031
+    - 21031
+  label: 海昌村民
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0167_X_003-mulu-68
+    span:
+    - body
+    - 21141
+    - 21141
+  label: 越王鏐
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 22673
+  label: 六道集卷四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 畜生道
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-2
+    span:
+    - body
+    - 17
+    - 17
+  label: 述名
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-3
+    span:
+    - body
+    - 710
+    - 710
+  label: 大法炬經
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-4
+    span:
+    - body
+    - 1356
+    - 1356
+  label: 天竺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-5
+    span:
+    - body
+    - 1518
+    - 1518
+  label: 晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-6
+    span:
+    - body
+    - 1519
+    - 1519
+  label: 梓潼
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-7
+    span:
+    - body
+    - 1635
+    - 1635
+  label: 沙門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-8
+    span:
+    - body
+    - 1751
+    - 1751
+  label: 隋
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-9
+    span:
+    - body
+    - 1752
+    - 1752
+  label: 宜州
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-10
+    span:
+    - body
+    - 2343
+    - 2343
+  label: 楊州
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-11
+    span:
+    - body
+    - 2477
+    - 2477
+  label: 洛陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-12
+    span:
+    - body
+    - 2817
+    - 2817
+  label: 冀州
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-13
+    span:
+    - body
+    - 3173
+    - 3173
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-14
+    span:
+    - body
+    - 3174
+    - 3174
+  label: 京兆
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-15
+    span:
+    - body
+    - 3451
+    - 3451
+  label: 長安
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-16
+    span:
+    - body
+    - 3632
+    - 3632
+  label: 文宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-17
+    span:
+    - body
+    - 3748
+    - 3748
+  label: 京都
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-18
+    span:
+    - body
+    - 3933
+    - 3933
+  label: 并州
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-19
+    span:
+    - body
+    - 4173
+    - 4173
+  label: 汾州
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-20
+    span:
+    - body
+    - 4321
+    - 4321
+  label: 明
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-21
+    span:
+    - body
+    - 4322
+    - 4322
+  label: 韶州
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-22
+    span:
+    - body
+    - 4554
+    - 4554
+  label: 清
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-23
+    span:
+    - body
+    - 4555
+    - 4555
+  label: 紹興
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-24
+    span:
+    - body
+    - 4608
+    - 4608
+  label: 廣州
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-25
+    span:
+    - body
+    - 4991
+    - 4991
+  label: 錄諸經文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-26
+    span:
+    - body
+    - 6467
+    - 6467
+  label: 附
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-27
+    span:
+    - body
+    - 6467
+    - 6467
+  label: 順德
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-28
+    span:
+    - body
+    - 7166
+    - 7166
+  label: 地獄道
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-29
+    span:
+    - body
+    - 7169
+    - 7169
+  label: 列名
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-30
+    span:
+    - body
+    - 9433
+    - 9433
+  label: 提謂經
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-31
+    span:
+    - body
+    - 9854
+    - 9854
+  label: 晉
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-32
+    span:
+    - body
+    - 9855
+    - 9855
+  label: 清河
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-33
+    span:
+    - body
+    - 10970
+    - 10970
+  label: 沙門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-34
+    span:
+    - body
+    - 11187
+    - 11187
+  label: 并州
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-35
+    span:
+    - body
+    - 12816
+    - 12816
+  label: 上虞
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-36
+    span:
+    - body
+    - 13332
+    - 13332
+  label: 武昌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-37
+    span:
+    - body
+    - 13943
+    - 13943
+  label: 巴丘縣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-38
+    span:
+    - body
+    - 14251
+    - 14251
+  label: 長安
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-39
+    span:
+    - body
+    - 15394
+    - 15394
+  label: 趙
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-40
+    span:
+    - body
+    - 15395
+    - 15395
+  label: 石長和
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-41
+    span:
+    - body
+    - 15712
+    - 15712
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-42
+    span:
+    - body
+    - 15713
+    - 15713
+  label: 廣陵
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-43
+    span:
+    - body
+    - 16030
+    - 16030
+  label: 益州
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-44
+    span:
+    - body
+    - 16795
+    - 16795
+  label: 多寶寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-45
+    span:
+    - body
+    - 17176
+    - 17176
+  label: 沙門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-46
+    span:
+    - body
+    - 17891
+    - 17891
+  label: 齊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-47
+    span:
+    - body
+    - 17892
+    - 17892
+  label: 仕人
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-48
+    span:
+    - body
+    - 18255
+    - 18255
+  label: 周
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-49
+    span:
+    - body
+    - 18256
+    - 18256
+  label: 拔虎
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-50
+    span:
+    - body
+    - 18507
+    - 18507
+  label: 隋
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-51
+    span:
+    - body
+    - 18508
+    - 18508
+  label: 冀州
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-52
+    span:
+    - body
+    - 18907
+    - 18907
+  label: 京兆
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-53
+    span:
+    - body
+    - 19145
+    - 19145
+  label: 文昌
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-54
+    span:
+    - body
+    - 19822
+    - 19822
+  label: 齊州
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-55
+    span:
+    - body
+    - 20107
+    - 20107
+  label: 雍州
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-56
+    span:
+    - body
+    - 20706
+    - 20706
+  label: 京城
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-57
+    span:
+    - body
+    - 22512
+    - 22512
+  label: 附
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0167_X_004-mulu-58
+    span:
+    - body
+    - 22513
+    - 22513
+  label: 雲蓋山
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 20896
+  label: 六道集卷五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 唐
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-2
+    span:
+    - body
+    - 15
+    - 15
+  label: 京兆
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-3
+    span:
+    - body
+    - 200
+    - 200
+  label: 兗州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-4
+    span:
+    - body
+    - 398
+    - 398
+  label: 陳郡
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-5
+    span:
+    - body
+    - 657
+    - 657
+  label: 遂州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-6
+    span:
+    - body
+    - 1170
+    - 1170
+  label: 馮翊
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-7
+    span:
+    - body
+    - 1942
+    - 1942
+  label: 新羅國
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-8
+    span:
+    - body
+    - 2135
+    - 2135
+  label: 括州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-9
+    span:
+    - body
+    - 2614
+    - 2614
+  label: 西京
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-10
+    span:
+    - body
+    - 2779
+    - 2779
+  label: 遂州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-11
+    span:
+    - body
+    - 3089
+    - 3089
+  label: 河東
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-12
+    span:
+    - body
+    - 3896
+    - 3896
+  label: 京師
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-13
+    span:
+    - body
+    - 4460
+    - 4460
+  label: 咸陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-14
+    span:
+    - body
+    - 4647
+    - 4647
+  label: 武昌
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-15
+    span:
+    - body
+    - 5132
+    - 5132
+  label: 華州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-16
+    span:
+    - body
+    - 5891
+    - 5891
+  label: 扶風
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-17
+    span:
+    - body
+    - 6369
+    - 6369
+  label: 魏州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-18
+    span:
+    - body
+    - 6684
+    - 6684
+  label: 曹州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-19
+    span:
+    - body
+    - 7216
+    - 7216
+  label: 雍州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-20
+    span:
+    - body
+    - 7992
+    - 7992
+  label: 博陵
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-21
+    span:
+    - body
+    - 9137
+    - 9137
+  label: 隴西
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-22
+    span:
+    - body
+    - 9374
+    - 9374
+  label: 雍州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-23
+    span:
+    - body
+    - 10079
+    - 10079
+  label: 師辯
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-24
+    span:
+    - body
+    - 10521
+    - 10521
+  label: 坊州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-25
+    span:
+    - body
+    - 10741
+    - 10741
+  label: 汾州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-26
+    span:
+    - body
+    - 11009
+    - 11009
+  label: 雍州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-27
+    span:
+    - body
+    - 11754
+    - 11754
+  label: 長安
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-28
+    span:
+    - body
+    - 12289
+    - 12289
+  label: 蕭氏
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-29
+    span:
+    - body
+    - 13835
+    - 13835
+  label: 西京
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-30
+    span:
+    - body
+    - 14115
+    - 14115
+  label: 汾州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-31
+    span:
+    - body
+    - 14201
+    - 14201
+  label: 華陰
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-32
+    span:
+    - body
+    - 14302
+    - 14302
+  label: 御史
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-33
+    span:
+    - body
+    - 14420
+    - 14420
+  label: 武功
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-34
+    span:
+    - body
+    - 14510
+    - 14510
+  label: 南唐(姓李)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-35
+    span:
+    - body
+    - 14514
+    - 14514
+  label: 江南
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-36
+    span:
+    - body
+    - 14698
+    - 14698
+  label: 後周(姓柴)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-37
+    span:
+    - body
+    - 14702
+    - 14702
+  label: 世宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-38
+    span:
+    - body
+    - 14934
+    - 14934
+  label: 宋
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-39
+    span:
+    - body
+    - 14935
+    - 14935
+  label: 六一
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-40
+    span:
+    - body
+    - 15478
+    - 15478
+  label: 明
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-41
+    span:
+    - body
+    - 15479
+    - 15479
+  label: 贑州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-42
+    span:
+    - body
+    - 15694
+    - 15694
+  label: 趙定宇
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-43
+    span:
+    - body
+    - 15940
+    - 15940
+  label: 禮像
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-44
+    span:
+    - body
+    - 16172
+    - 16172
+  label: 清
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-45
+    span:
+    - body
+    - 16173
+    - 16173
+  label: 湖廣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-46
+    span:
+    - body
+    - 16394
+    - 16394
+  label: 廣州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-47
+    span:
+    - body
+    - 17963
+    - 17963
+  label: 韶州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-48
+    span:
+    - body
+    - 18182
+    - 18182
+  label: 盧陵
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-49
+    span:
+    - body
+    - 18282
+    - 18282
+  label: 廣東
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-50
+    span:
+    - body
+    - 18284
+    - 18284
+  label: 梁子球
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-51
+    span:
+    - body
+    - 18792
+    - 18792
+  label: 門聯
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-52
+    span:
+    - body
+    - 18968
+    - 18968
+  label: 殿左廡硃榜罪欵刑條
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-53
+    span:
+    - body
+    - 19269
+    - 19269
+  label: 殿右廡金榜放生文(是杭州雲棲寺蓮池大師戒殺文)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-54
+    span:
+    - body
+    - 19849
+    - 19849
+  label: 廣州
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-55
+    span:
+    - body
+    - 20007
+    - 20007
+  label: 順德縣
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6r0167_X_005-mulu-56
+    span:
+    - body
+    - 20198
+    - 20198
+  label: 順德
+  type: mulu
+  level: 1
+hash: sha256:51810c9cab3a245cb269e3961a30a79b14ad9259472f3210f1a1514e9b60e1f2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
