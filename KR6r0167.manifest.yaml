@@ -21,14 +21,14 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6r0167_000.yaml, hash: 'sha256:431a250fe526a566aec7c6be95c57aece47fb444b4e95054f60d36b60c959cf4'}
+  - {seq: 0, filename: KR6r0167_000.yaml, hash: 'sha256:b21e7fe72573f38df3142fb6d8e3a75cfaebfafadc27d7b87feb628c5a163ce1'}
   - {seq: 1, filename: KR6r0167_001.yaml, hash: 'sha256:be9cfc3fadeb6718b9cba1dabc21ab89f9a08284c365cd4d70c9c283076c3379'}
   - {seq: 2, filename: KR6r0167_002.yaml, hash: 'sha256:94387a028cbeadab94464fbb8d94e9f3746c638077b206e329b00175c2a351bf'}
   - {seq: 3, filename: KR6r0167_003.yaml, hash: 'sha256:81548f5a9f4e17b0945efc9ac34ec1c2889d6527c02a2ef8d17c362f4b19924e'}
   - {seq: 4, filename: KR6r0167_004.yaml, hash: 'sha256:0a16d0e7eb4d1e8120ac4ff6002afca7a1181ebfed4c33255b0a26a3460d265d'}
   - {seq: 5, filename: KR6r0167_005.yaml, hash: 'sha256:54765732b798f1c520fc72bb7c0de2a8497f511312ecb28ee0e9525ee8a6c4d7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0167_000.markers.yaml, hash: 'sha256:9c46c66f8c315d6a5625f413fdc7313a1377ec0561f480b651be1ebd57205e52'}
+  - {seq: 0, role: markers, filename: assets/KR6r0167_000.markers.yaml, hash: 'sha256:b54c4e277cb594eb890c2b53ee6fc8d7e5138ac68ccb53dba65c8438fc221cc0'}
   - {seq: 1, role: markers, filename: assets/KR6r0167_001.markers.yaml, hash: 'sha256:902ec18d4e257924ebc5f09c7b5890814e590b7bf2558bfa6b882c59983fea1d'}
   - {seq: 2, role: markers, filename: assets/KR6r0167_002.markers.yaml, hash: 'sha256:127b7545a681f9fba726d1233166e305d5e600d74952218a8b29155c0b3731ac'}
   - {seq: 3, role: markers, filename: assets/KR6r0167_003.markers.yaml, hash: 'sha256:527a38fd0a36c5b4c8b466ae94219650696353a604a293c0fd882437095af8c4'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0167_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1645-A 六道集敘
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0167_X_000-mulu-2
     span:
-    - front
+    - body
     - 293
     - 293
   label: No. 1645-B 六道集序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0167_X_000-mulu-3
     span:
-    - front
+    - body
     - 639
     - 639
   label: 六道集總目
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0167_X_000-mulu-4
     span:
-    - front
+    - body
     - 676
     - 676
   label: 六道集目錄
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0167_X_000-mulu-5
     span:
-    - front
+    - body
     - 1754
     - 1754
   label: No. 1645-C 六道集述言
@@ -3035,7 +3035,7 @@ table_of_contents:
   label: 順德
   type: mulu
   level: 1
-hash: sha256:d427d23e64fe32ed527008fa77a9da0fae3c9a6180d17ce60baa2daeb8669ae6
+hash: sha256:e3fbf0ac04f4f45c706022435207d60c32ed4ddfac51f28b3eeb3151c9b08ede
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
